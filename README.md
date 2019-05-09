@@ -1,4 +1,6 @@
-# Yowsup 2  [![Build Status](https://travis-ci.org/AragurDEV/yowsup.svg?branch=master)](https://travis-ci.org/AragurDEV/yowsup)
+# [discontinued] Yowsup 2  [![Build Status](https://travis-ci.org/AragurDEV/yowsup.svg?branch=master)](https://travis-ci.org/AragurDEV/yowsup)
+
+!! Please use tgalal's original repository. All the latest changes are and will be applied there. https://github.com/tgalal/yowsup
 
 If you need any assistance join our Discord server: **[https://discord.gg/Wa7QSxZ](https://discord.gg/Wa7QSxZ)**
 
